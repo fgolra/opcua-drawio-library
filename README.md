@@ -8,3 +8,6 @@ This will create a pellet of OPC UA specifications at the left side, from which 
 
 ## Note:
 Draw.io does not provide double head arrow ends, so `HasTypeDefinition` and `HasSubType` reference types connectors could not be developed.  I have provided two triangles that can be placed on top of the connectors in the final models.  
+
+## Updating Library:
+Once you open the library in draw.io, you can also update it by editing the shaping and raging them back to the pellet.  Save to .xml file, once you update your library.
